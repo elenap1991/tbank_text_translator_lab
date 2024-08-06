@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: translator
+translator:
+  api-key: AQVNyCwPJPIgojZ8iBJKsSKJeJfC2ekNOfnQzUtG
+  max-thread-count: 10
+  timeoutMilliseconds: 800
